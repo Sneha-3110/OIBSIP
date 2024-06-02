@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://wallpapers.com/images/high/honeycomb-black-3d-ev0fat4td9rjir77.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ctext {
+    color: white !important;
+    text-align: center !important;
+}
+
+.div1{
+    background-image: url(https://lessonslearnedinlife.net/wp-content/uploads/2020/04/Bill-Gates-Qoutes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 1200px;
+    margin-left: 12%;
+    border:5px #fff groove;
+    border-radius: 40px;
+}
+
+.div2{
+    margin-top: 10px;
+    height: 500px;
+    width: 1200px;
+    border:5px whitesmoke groove;
+    margin-left: 12%;
+    border-radius: 40px;
+    background-color: rgba(26, 24, 24, 0.549);
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+
+
